@@ -5,4 +5,6 @@ Las expresiones de nivel de detalle (LOD) permiten calcular fácilmente agregaci
 A continuación se detallan algunas herramientas de visualización utilizando expresiones LOD en Tableau y desarrolladas utilizando una base de datos ficticia que simula la operación de una tienda de artículos de oficina en Canadá y Estados Unidos, ofreciendo datos como órdenes de compra, clientes, productos, ventas y ubicación de las ventas.
 Los títulos de cada herramienta desarrollada han sido vinculados a Tableau Public, donde se puede interactuar con las visualizaciones que así lo permitan.
 ## [1.- Análisis de Frecuencia de las Ordenes de los Clientes](https://public.tableau.com/views/1_-AnalissLODFrecuenciadeOrdenesdeClientes/FRECUENCIADEORDENESDECLIENTES?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+¿Cuántos clientes han hecho 1, 2, 3,…, n órdenes de compra?
 ![](Images/T1.png)
+Calcular el número de pedidos que ha realizado cada cliente es relativamente fácil, pero ¿qué sucedería si quisiéramos saber cuántos clientes hicieron uno, dos, tres, etc.? Para crear esta vista, se desglosa el número de clientes por el número de pedidos realizados con ayuda de expresiones LOD.

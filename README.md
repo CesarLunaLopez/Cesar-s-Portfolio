@@ -6,7 +6,7 @@ Las expresiones de nivel de detalle (LOD) permiten calcular fácilmente agregaci
 
 A continuación se detallan algunas herramientas de visualización utilizando expresiones LOD en Tableau y desarrolladas utilizando una base de datos ficticia que simula la operación de una tienda de artículos de oficina en Canadá y Estados Unidos, ofreciendo datos como órdenes de compra, clientes, productos, ventas y ubicación de las ventas.
 
-Los títulos de cada herramienta desarrollada han sido vinculados a Tableau Public, donde se puede interactuar con las visualizaciones que así lo permitan.
+Los títulos de cada herramienta desarrollada han sido vinculados a Tableau Public, donde se puede interactuar con las visualizaciones.
 
 ### Herramientas utilizadas: Campos calculados, funciones, calculos de tabla, expresiones LOD, paramétros, filtros. 
 

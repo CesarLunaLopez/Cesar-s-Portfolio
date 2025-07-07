@@ -60,7 +60,7 @@ Este dashboard fue elaborado con el objetivo de desarrollar una análisis de dat
 
 La base de datos utilizada consiste en una empresa de transporte ficticia, y principalmente se analizan ingresos cobrados y por cobrar, asi como el performance de los choferes y vendedores.
 
-![](Imagenes/Dashboard1.png)
+![](Imagenes/Dashboard1.gif)
 
 
 ### Herramientas utilizadas: Manejo de recursos como formas, imagenes y manipulación del formato para fines de diseño, tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.

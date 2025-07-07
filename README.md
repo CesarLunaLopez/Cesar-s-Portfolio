@@ -4,7 +4,7 @@ Hola, bienvenido a mi portafolio, me llamo Cesar y soy egresado de la Licenciatu
 Puedes acceder a cada proyecto haciendo click en el titulo cuando esté coloreado en *azul*. Gracias por tu retroalimentación.
 
 # [Proyecto: Dashboard en Excel: Métricas de Rendimiento de Ventas](https://github.com/CesarLunaLopez/Dashboard-1-Metricas-de-Rendimiento-de-Ventas.git)
-Este dashboard fue elaborado con el objetivo de desarrollar un análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube "Other Level's".
+Este dashboard lo elaboré con el objetivo de desarrollar un análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube "Other Level's".
 
 La base de datos utilizada consiste en una empresa de transporte ficticia, y principalmente se analizan ingresos cobrados y por cobrar, asi como el performance de los choferes y vendedores.
 
@@ -67,7 +67,7 @@ Además, por el ejemplo 2, sabemos que la mayoría de los clientes se adquiriero
 Este gráfico combina una variación de la expresión LOD del número de pedidos del ejemplo 1, la expresión de cohorte del ejemplo 2 y una variación del porcentaje del total de la expresión del ejemplo 4.
 
 # [Proyecto: Dashboard en Excel: Contrataciones en Almacén](https://github.com/CesarLunaLopez/2-Dashboard-Contratacion-de-Almacenes.git)
-Dashboard elaborado a partir de un caso ficticio relativo a la rotación de personal inusual en los almacenes de una empresa de envios. 
+Dashboard que realicé a partir de un caso ficticio relativo a la rotación de personal inusual en los almacenes de una empresa de envios. 
 
 Se realizó limpieza de datos para posibilitar el análisis, se exploro información respecto al caso y se presenta un informe dinamico que con ayuda de segmentadores puede personalizar la información de acuerdo al área y almacén de interés, además, el dashboard expone que la rotación tenía lugar en el turno nocturno debido a un alza en la inseguridad.
 
@@ -75,7 +75,7 @@ Se realizó limpieza de datos para posibilitar el análisis, se exploro informac
 ### Herramientas utilizadas: Tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
 
 # [Proyecto: Dashboard en Excel: Aumento de nómina](https://github.com/CesarLunaLopez/3-Dashboard-Incremento-de-Nomina.git)
-Dashboard elaborado a partir de un caso ficticio en el que se solicita estimar el costo de dos planes distintos de aumento salarial para la plantilla de trabajadores en México de una empresa americana, asi como determinar cual de los dos es el mejor.
+Dashboard que elaboré a partir de un caso ficticio en el que se solicita estimar el costo de dos planes distintos de aumento salarial para la plantilla de trabajadores en México de una empresa americana, asi como determinar cual de los dos es el mejor.
 
 Se realizó limpieza de datos para posibilitar el análisis, se hizo el cálculo de los aumentos con fundamento en la ley y se presenta un dashboard dinámico que expone los costos de cada plan para la toma de decisión.
 

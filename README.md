@@ -4,7 +4,7 @@ Portafolio de Análisis de Datos
 Las expresiones de nivel de detalle (LOD) permiten calcular fácilmente agregaciones que no tienen el nivel de detalle de la visualización. Posteriormente, estos valores se pueden agregar en las visualizaciones de forma arbitraria. Lo cual permite la elaboración de análisis que ofrecen información más especifica y que interrelaciona datos diferentes.
 A continuación se detallan algunas herramientas de visualización utilizando expresiones LOD en Tableau y desarrolladas utilizando una base de datos ficticia que simula la operación de una tienda de artículos de oficina en Canadá y Estados Unidos, ofreciendo datos como órdenes de compra, clientes, productos, ventas y ubicación de las ventas.
 Los títulos de cada herramienta desarrollada han sido vinculados a Tableau Public, donde se puede interactuar con las visualizaciones que así lo permitan.
-###Herramientas utilizadas: Campos calculados, funciones, calculos de tabla, expresiones LOD, paramétros, filtros. 
+### Herramientas utilizadas: Campos calculados, funciones, calculos de tabla, expresiones LOD, paramétros, filtros. 
 ## [1.- Análisis de Frecuencia de las Ordenes de los Clientes](https://public.tableau.com/views/1_-AnalissLODFrecuenciadeOrdenesdeClientes/FRECUENCIADEORDENESDECLIENTES?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### ¿Cuántos clientes han hecho 1, 2, 3,…, n órdenes de compra?
 ![](Imagenes/T1.png)

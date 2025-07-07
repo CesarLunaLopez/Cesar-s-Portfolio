@@ -15,7 +15,7 @@ La base de datos utilizada consiste en una empresa de transporte ficticia, y pri
 # Proyecto: Análisis Financiero con Expresiones LOD (Level of Detail)
 Las expresiones de nivel de detalle (LOD) en Tableau permiten calcular fácilmente agregaciones que no tienen el nivel de detalle de la visualización. Posteriormente, estos valores se pueden agregar en las visualizaciones de forma arbitraria, lo cual permite la elaboración de análisis que ofrecen información más especifica y que interrelaciona datos diferentes.
 
-A continuación desarrolló algunas herramientas de visualización utilizando expresiones LOD en Tableau y desarrolladas utilizando una base de datos ficticia que simula la operación de una tienda de artículos de oficina en Canadá y Estados Unidos, ofreciendo datos como órdenes de compra, clientes, productos, ventas y ubicación de las ventas.
+A continuación desarrollo algunas herramientas de visualización utilizando expresiones LOD en Tableau y desarrolladas utilizando una base de datos ficticia que simula la operación de una tienda de artículos de oficina en Canadá y Estados Unidos, ofreciendo datos como órdenes de compra, clientes, productos, ventas y ubicación de las ventas.
 
 Los títulos de cada herramienta desarrollada han sido vinculados a Tableau Public, donde se puede interactuar con las visualizaciones.
 

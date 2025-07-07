@@ -2,7 +2,7 @@
 Portafolio de Análisis de Datos
 
 # [Proyecto: Dashboard en Excel: Métricas de Rendimiento de Ventas](https://github.com/CesarLunaLopez/Dashboard-1-Metricas-de-Rendimiento-de-Ventas.git)
-Este dashboard fue elaborado con el objetivo de desarrollar una análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube Other Level's.
+Este dashboard fue elaborado con el objetivo de desarrollar un análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube Other Level's.
 
 La base de datos utilizada consiste en una empresa de transporte ficticia, y principalmente se analizan ingresos cobrados y por cobrar, asi como el performance de los choferes y vendedores.
 

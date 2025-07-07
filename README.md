@@ -1,6 +1,15 @@
 # Cesar-s-Portfolio
 Portafolio de Análisis de Datos
 
+# [Proyecto: Dashboard en Excel: Métricas de Rendimiento de Ventas](https://github.com/CesarLunaLopez/Dashboard-1-Metricas-de-Rendimiento-de-Ventas.git)
+Este dashboard fue elaborado con el objetivo de desarrollar una análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube Other Level's.
+
+La base de datos utilizada consiste en una empresa de transporte ficticia, y principalmente se analizan ingresos cobrados y por cobrar, asi como el performance de los choferes y vendedores.
+
+![](Imagenes/Dashboard1.gif)
+
+### Herramientas utilizadas: Manejo de recursos como formas, imagenes y manipulación del formato para fines de diseño, tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
+
 # Proyecto: Análisis Financiero con Expresiones LOD (Level of Detail)
 Las expresiones de nivel de detalle (LOD) permiten calcular fácilmente agregaciones que no tienen el nivel de detalle de la visualización. Posteriormente, estos valores se pueden agregar en las visualizaciones de forma arbitraria, lo cual permite la elaboración de análisis que ofrecen información más especifica y que interrelaciona datos diferentes.
 
@@ -55,14 +64,5 @@ Sabemos, por el ejemplo 1, cuántos clientes compran exactamente una vez, exacta
 Además, por el ejemplo 2, sabemos que la mayoría de los clientes se adquirieron en 2011 y la menor cantidad en 2014. Analizar el número absoluto de clientes solo revelará esta misma tendencia. Por lo tanto, puede ser más interesante observar el porcentaje total de clientes por generación como medida de lealtad.
 Este gráfico combina una variación de la expresión LOD del número de pedidos del ejemplo 1, la expresión de cohorte del ejemplo 2 y una variación del porcentaje del total de la expresión del ejemplo 4.
 
-# [Proyecto: Dashboard en Excel: Métricas de Rendimiento de Ventas](https://github.com/CesarLunaLopez/Dashboard-1-Metricas-de-Rendimiento-de-Ventas.git)
-Este dashboard fue elaborado con el objetivo de desarrollar una análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube Other Level's.
-
-La base de datos utilizada consiste en una empresa de transporte ficticia, y principalmente se analizan ingresos cobrados y por cobrar, asi como el performance de los choferes y vendedores.
-
-![](Imagenes/Dashboard1.gif)
-
-
-### Herramientas utilizadas: Manejo de recursos como formas, imagenes y manipulación del formato para fines de diseño, tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
 
 

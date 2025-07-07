@@ -23,10 +23,12 @@ Si coloreamos por porcentaje de contribución, vemos inmediatamente que Californ
 ## [5.- Análisis Comparativo de Ventas](https://public.tableau.com/views/5_-AnlisisLODComparativodeVentas/DASHBOARDANALISISCOMPARATIVODEVENTAS?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### ¿Cómo se comparan las ventas de las diferentes categorias de productos contra una de ellas en particular?
 ![](Imagenes/T5.png)
+
 Es relativamente sencillo hallar la diferencia de ventas de un producto con la venta promedio, pero ¿qué ocurre si se desea hallar la diferencia con una categoría seleccionada? Primero, se aíslan las ventas de dicha categoría. Luego, se usa una expresión EXCLUDE para repetir ese valor en todas las demás categorías. De esta manera, utilizando un botón que modifica el parámetro (la categoría que se toma como referencia), se expone la diferencia de ventas entre dicha categoría y las del resto.
 ## [6.- Retorno de compras por generación](https://public.tableau.com/views/6_-AnlisisLODRetornodecomprasporgeneracin/DASHBOARDCOMPRASREPETIDASPORGENERACIN?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### ¿Después de la primera compra, cuántos trimestres les toma a los clientes realizar otra de nuevo?
 ![](Imagenes/T6.png)
+
 Adquirir nuevos clientes puede ser costoso, por lo que queremos asegurarnos de que los clientes existentes realicen compras recurrentes. ¿Cuántos clientes tardan uno, dos, tres o N trimestres en repetir una compra? ¿Cuántos nunca han repetido una compra?
 Podemos usar una expresión fija para encontrar las fechas de la primera y la segunda compra por cliente y, a partir de esto, obtener el número de trimestres necesarios para repetir una compra. Esto se esboza a través de un heatmap que nos indica como se concentran los clientes de acuerdo con su generación y trimestres requeridos para repetir una compra.
 ## [7.- Cepillado Proporcional](https://public.tableau.com/views/7_-AnlisisLODCepilladoProporcional/DASHBOARDCEPILLADOPROPORCIONAL?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

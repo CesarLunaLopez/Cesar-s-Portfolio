@@ -1,7 +1,7 @@
 # Portafolio de Cesar Luna López 
 Hola, bienvenido a mi portafolio, me llamo Cesar y soy egresado de la Licenciatura en Economía por la *UNAM*, especializado en Economía Aplicada. Tengo experiencia en sectores financiero y energético realizando gestión administrativa, tratamiento de información financiera, generación de reportes y análisis de desempeño. Actualmente me encuentro en constante trabajo para mejorar mis habilidades como Análista de Datos. Este portafolio busca reflejar mi proceso de aprendizaje, habilidades técnicas y capacidad para resolver problemas.
 
-Puedes acceder a cada proyecto haciendo click en el titulo cuando este coloreado en *azul*. Gracias por tu retroalimentación.
+Puedes acceder a cada proyecto haciendo click en el titulo cuando esté coloreado en *azul*. Gracias por tu retroalimentación.
 
 # [Proyecto: Dashboard en Excel: Métricas de Rendimiento de Ventas](https://github.com/CesarLunaLopez/Dashboard-1-Metricas-de-Rendimiento-de-Ventas.git)
 Este dashboard fue elaborado con el objetivo de desarrollar un análisis de datos acompañado de una visualización de alto nivel en Excel, replicando un diseño del canal de YouTube "Other Level's".

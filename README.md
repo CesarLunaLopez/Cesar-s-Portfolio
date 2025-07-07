@@ -77,7 +77,7 @@ Se realizó limpieza de datos para posibilitar el análisis, se exploro informac
 # [Proyecto: Dashboard en Excel: Aumento de nómina](https://github.com/CesarLunaLopez/3-Dashboard-Incremento-de-Nomina.git)
 Dashboard elaborado a partir de un caso ficticio en el que se solicita estimar el costo de dos planes distintos de aumento salarial para la plantilla de trabajadores en México de una empresa americana, asi como determinar cual de los dos es el mejor.
 
-Se realizó limpieza de datos para posibilitar el análisis, se hizo el cálculo de los aumentos con fundamento en la ley y se presenta un dashboard dinámico que expone los costos de cada plan para la toma de desición.
+Se realizó limpieza de datos para posibilitar el análisis, se hizo el cálculo de los aumentos con fundamento en la ley y se presenta un dashboard dinámico que expone los costos de cada plan para la toma de decisión.
 
 ![](Imagenes/Dashboard3.gif)
 ### Herramientas utilizadas: Power Query para limpieza de datos, Tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.

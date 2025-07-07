@@ -8,7 +8,7 @@ La base de datos utilizada consiste en una empresa de transporte ficticia, y pri
 
 ![](Imagenes/Dashboard1.gif)
 
-### Herramientas utilizadas: Manejo de recursos como formas, imagenes y manipulación del formato para fines de diseño, tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
+### Herramientas utilizadas: Manejo de recursos como formas; imagenes y manipulación del formato para fines de diseño, tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
 
 # Proyecto: Análisis Financiero con Expresiones LOD (Level of Detail)
 Las expresiones de nivel de detalle (LOD) permiten calcular fácilmente agregaciones que no tienen el nivel de detalle de la visualización. Posteriormente, estos valores se pueden agregar en las visualizaciones de forma arbitraria, lo cual permite la elaboración de análisis que ofrecen información más especifica y que interrelaciona datos diferentes.
@@ -64,6 +64,18 @@ Sabemos, por el ejemplo 1, cuántos clientes compran exactamente una vez, exacta
 Además, por el ejemplo 2, sabemos que la mayoría de los clientes se adquirieron en 2011 y la menor cantidad en 2014. Analizar el número absoluto de clientes solo revelará esta misma tendencia. Por lo tanto, puede ser más interesante observar el porcentaje total de clientes por generación como medida de lealtad.
 Este gráfico combina una variación de la expresión LOD del número de pedidos del ejemplo 1, la expresión de cohorte del ejemplo 2 y una variación del porcentaje del total de la expresión del ejemplo 4.
 
+# [Proyecto: Dashboard en Excel: Contrataciones en Almacén](https://github.com/CesarLunaLopez/2-Dashboard-Contratacion-de-Almacenes.git)
+Dashboard elaborado a partir de un caso ficticio relativo a la rotación de personal inusual en los almacenes de una empresa de envios. 
 
+Se realizó limpieza de datos para posibilitar el análisis, se exploro información respecto al caso y se presenta un informe dinamico que con ayuda de segmentadores puede personalizar la información de acuerdo al área y almacén de interés, además, el dashboard expone que la rotación tenía lugar en el turno nocturno debido a un alza en la inseguridad.
 
+![](Imagenes/Dashboard2.gif)
+### Herramientas utilizadas: Tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
 
+# [Proyecto: Dashboard en Excel: Aumento de nómina](https://github.com/CesarLunaLopez/3-Dashboard-Incremento-de-Nomina.git)
+Dashboard elaborado a partir de un caso ficticio en el que se solicita estimar el costo de dos planes distintos de aumento salarial para la plantilla de trabajadores en México de una empresa americana, asi como determinar cual de los dos es el mejor.
+
+Se realizó limpieza de datos para posibilitar el análisis, se hizo el cálculo de los aumentos con fundamento en la ley y se presenta un dashboard dinámico que expone los costos de cada plan para la toma de desición.
+
+![](Imagenes/Dashboard3.gif)
+### Herramientas utilizadas: Power Query para limpieza de datos, Tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.

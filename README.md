@@ -1,5 +1,5 @@
 # Portafolio de Cesar Luna López 
-Hola, bienvenido(a) a mi portafolio, me llamo Cesar y soy egresado de la Licenciatura en Economía por la *UNAM*, especializado en Economía Aplicada. Tengo experiencia en sectores financiero y energético realizando gestión administrativa, tratamiento de información financiera, generación de reportes y análisis de desempeño. Actualmente me encuentro en constante trabajo para mejorar mis habilidades como Análista de Datos. Este portafolio busca reflejar mi proceso de aprendizaje, habilidades técnicas y capacidad para resolver problemas.
+Hola, bienvenido(a) a mi portafolio, soy egresado de la Licenciatura en Economía por la *UNAM*, especializado en Economía Aplicada. Tengo experiencia en sectores financiero y energético realizando gestión administrativa, tratamiento de información financiera, generación de reportes y análisis de desempeño. Actualmente me encuentro en constante trabajo para mejorar mis habilidades como Análista de Datos. Este portafolio busca reflejar mi proceso de aprendizaje, habilidades técnicas y capacidad para resolver problemas.
 
 Puedes acceder a cada proyecto haciendo click en el titulo cuando esté coloreado en *azul*. Gracias por tu retroalimentación.
 
@@ -26,7 +26,7 @@ Los títulos de cada herramienta desarrollada han sido vinculados a Tableau Publ
 ![](Imagenes/T1.png)
 
 Calcular el número de pedidos que ha realizado cada cliente es relativamente fácil, pero ¿qué sucedería si quisiéramos saber cuántos clientes hicieron uno, dos, tres, etc.? Para crear esta vista, se desglosa el número de clientes por el número de pedidos realizados con ayuda de expresiones LOD.
-## [2.- Análisis de Generación(Cohort Analysis)](https://public.tableau.com/views/2_-AnlisisLODGeneracindeClientesCohortAnalysis/DASHBOARDANLISISDEGENERACIN?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [2.- Análisis de Generación (Cohort Analysis)](https://public.tableau.com/views/2_-AnlisisLODGeneracindeClientesCohortAnalysis/DASHBOARDANLISISDEGENERACIN?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ### ¿Cuánto contribuye a la ganancia cada generación anual de clientes?
 ![](Imagenes/T2.png)
 
@@ -80,4 +80,4 @@ Dashboard que elaboré a partir de un caso ficticio en el que se solicita estima
 Se realizó limpieza de datos para posibilitar el análisis, se hizo el cálculo de los aumentos con fundamento en la ley y se presenta un dashboard dinámico que expone los costos de cada plan para la toma de decisión.
 
 ![](Imagenes/Dashboard3.gif)
-### Herramientas utilizadas: Power Query para limpieza de datos, Tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
+### Herramientas utilizadas: Tablas dinámicas, filtros, funciones, segmentadores, elaboración de gráficas.
